@@ -1,0 +1,22 @@
+{
+    "name": "vietrue/flysystem-oss",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vietrue\\Flysystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vietrue",
+            "email": "vietrue@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "league/flysystem": "^2.0",
+        "aliyuncs/oss-sdk-php": "~2.4"
+    },
+    "minimum-stability": "dev"
+}
