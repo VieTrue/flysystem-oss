@@ -19,5 +19,4 @@
         "aliyuncs/oss-sdk-php": "~2.4"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
 }
